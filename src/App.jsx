@@ -79,29 +79,11 @@ const App = () => {
               </Menu.Item>
               <Menu.Item key="2" icon={<ThunderboltOutlined />}>
                 <a
-                  href="https://newzone.top/posts/2022-09-05-stable_diffusion_ai_painting.html"
+                  href="https://hedanku.com"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Stable Diffusion 入门教程
-                </a>
-              </Menu.Item>
-              <Menu.Item key="3" icon={<ExperimentOutlined />}>
-                <a
-                  href="https://www.aishort.top"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  ChatGPT Shortcut
-                </a>
-              </Menu.Item>
-              <Menu.Item key="4" >
-                <a
-                  href="https://tools.newzone.top/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  批量文本处理
+                  核弹库
                 </a>
               </Menu.Item>
             </Menu>
